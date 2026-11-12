@@ -23,7 +23,7 @@ Show names, current-season episode counts, and watched progress are saved in loc
 Use Node.js and npm, then run these commands from the project folder:
 
 ```sh
-npm install
+npm ci
 npm run dev
 ```
 
